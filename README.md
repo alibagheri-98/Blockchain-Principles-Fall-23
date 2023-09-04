@@ -8,7 +8,3 @@ The marterials prepared until now:
    - Link: https://web3.princeton.edu/principles-of-blockchains/
 3. Notes of 'Cryptography I' course taught by Dan Boneh from Stanford University
    - Link: https://www.coursera.org/learn/crypto
-4. Notes of 'Blockchain Specialization' course taught by Bina Ramamurthy from Buffalo University
-   - Link: https://www.coursera.org/specializations/blockchain
-
-Note: The LaTeX source files are included.
