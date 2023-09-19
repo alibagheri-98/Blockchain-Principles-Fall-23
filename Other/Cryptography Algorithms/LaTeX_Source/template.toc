@@ -1,0 +1,32 @@
+\contentsline {chapter}{\numberline {1}Symmetric Algorithm}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Data Encryption Standard (DES)}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}algorithm}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Key Generation:}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Initial Permutation (IP)}{6}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Feistel Network(rounds)}{7}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}S-box}{9}{subsection.1.1.5}%
+\contentsline {subsection}{\numberline {1.1.6}P-box}{10}{subsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.1.7}swap and final permutation}{11}{subsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.1.8}Decryption}{12}{subsection.1.1.8}%
+\contentsline {section}{\numberline {1.2}Advanced Encryption Standard (AES)}{13}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}algorithm}{14}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Block Size and Key Length}{15}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Key Expansion}{16}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}SubBytes Transformation}{17}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}ShiftRows Transformation}{18}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}MixColumns Transformation}{18}{subsection.1.2.6}%
+\contentsline {subsection}{\numberline {1.2.7}AddRoundKey Transformation}{19}{subsection.1.2.7}%
+\contentsline {subsection}{\numberline {1.2.8}Decryption}{20}{subsection.1.2.8}%
+\contentsline {chapter}{\numberline {2}Asymmetric Algorithm}{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}RSA(Rivest-Shamir-Adleman)}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Algorithm}{24}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Digital Signature Algorithm (DSA)}{26}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Algorithm}{27}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3}Hashing}{30}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What is Hashing?}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}MD5}{32}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}algorithm}{33}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Weakness}{34}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}SHA-256}{35}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}algorithm}{36}{subsection.3.3.1}%
+\contentsfinish 
