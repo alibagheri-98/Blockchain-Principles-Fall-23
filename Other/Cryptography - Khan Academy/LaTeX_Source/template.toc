@@ -1,0 +1,52 @@
+\contentsline {chapter}{\numberline {1}Ancient cryptography}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}What is cryptography?}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The Caesar cipher}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Polyalphabetic cipher}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}The one-time pad}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Frequency stability property short film}{6}{section.1.5}%
+\contentsline {section}{\numberline {1.6}The Enigma encryption machine}{7}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Perfect secrecy}{9}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Pseudorandom number generators}{10}{section.1.8}%
+\contentsline {chapter}{\numberline {2}Ciphers}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ciphers vs. codes}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Shift cipher}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Why is the Shift Cipher insecure?}{14}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}XOR bitwise operation}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}The ultimate shift cipher}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Encrypting Colors}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Application of random shifts}{16}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}AND}{17}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}OR}{18}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}XOR}{19}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}XOR and the one-time pad}{20}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Why must we use XOR?}{20}{subsection.2.4.1}%
+\contentsline {chapter}{\numberline {3}Modern cryptography }{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}The fundamental theorem of arithmetic}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Public key cryptography: What is it?}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The discrete logarithm problem}{25}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Diffie-hellman key exchange}{27}{section.3.4}%
+\contentsline {section}{\numberline {3.5}RSA encryption}{27}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Step 1}{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Step 2}{29}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Step 3}{30}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Euler's totient function}{31}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Step 4}{33}{subsection.3.5.5}%
+\contentsline {chapter}{\numberline {4}Primality test}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Primality test challenge}{36}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Trial division}{36}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Define the problem}{36}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Building a wall}{36}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Building a better wall}{37}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Trial division algorithm}{37}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}What is computer memory?}{38}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Sieve of Eratosthenes}{39}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Primality test with sieve}{43}{section.4.5}%
+\contentsline {section}{\numberline {4.6}The prime number theorem}{43}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Time space tradeoff}{48}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Summary (what's next?)}{49}{section.4.8}%
+\contentsline {chapter}{\numberline {5}Randomized algorithms}{53}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conditional probability explained visually}{56}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Random primality test}{59}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Fermat's little theorem}{60}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Fermat primality test}{63}{section.5.4}%
+\contentsfinish 
