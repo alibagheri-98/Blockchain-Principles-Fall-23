@@ -1,4 +1,4 @@
-# Blockchain-Principles-Fall-23
+# Foundations-of-Blockchain-Fall-23
 I am currently, a teaching assistant of 'Blockchain Principles', instructed by Dr. Maddah-Ali at University of Minnesota. Any materials provided for the course up to this point will be added to this repository
 <br>
 <br>
