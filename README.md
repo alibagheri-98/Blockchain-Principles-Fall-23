@@ -13,6 +13,6 @@ The marterials prepared until now:
    - Link of the course: https://www.coursera.org/specializations/blockchain
 5. The notes for the 'Berkely Blockchain' course are in 'Other' folder, available in the 'Berkely Blockchain Course.pdf' file.
    - Link of the course: https://www.youtube.com/playlist?list=PLLkiRvMHnp6OIWkZVa85g2tv7NtlgoAID
-6. The notes for the 'Cryptography' course on Khan Academy are located in the 'Other' folder, available in the 'Cryptography - Khan Academy.pdf' file.
+6. The notes for the 'Cryptography' course on Khan Academy are located in the 'Other' folder, available in the 'Cryptography - Khan Academy' folder.
    - Link of the course: https://www.khanacademy.org/computing/computer-science/cryptography
-7. We have also collected cryptography algorithms from various sources on the internet in the 'Other' folder, available in the 'Cryptography Algorithms.pdf' file.
+7. We have also collected cryptography algorithms from various sources on the internet in the 'Other' folder, available in the 'Cryptography Algorithms' folder.
